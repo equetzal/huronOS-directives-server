@@ -1,0 +1,36 @@
+[Global]
+TimeZone=Pacific/Auckland
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|es|mao|
+DefaultKeyboardLayout=es
+EventConfig=true
+ContestConfig=true
+
+[Always]
+Wallpaper=directives.huronos.org/wallpaper3.png
+AllowUsbStorage=true
+AllowedWebsites=huronos.org|board.huronos.org|
+Bookmarks={IPN^https://ipn.mx}|
+AvailableSoftware=internet/chrome|internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/midnight-commander|programming/atom|programming/clion|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/joe|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+
+[Event]
+Wallpaper=directives.huronos.org/wallpaper2.png
+AllowUsbStorage=true
+AllowedWebsites=huronos.org|board.huronos.org|
+Bookmarks={IPN^https://ipn.mx}|
+AvailableSoftware=internet/chromium|programming/kate|langs/gcc|langs/g++|internet/firefox|langs/javac|
+
+[Event-Times]
+2022-05-23T10:00:00	2022-05-29T22:00:00
+
+[Contest]
+Wallpaper=directives.huronos.org/wallpaper1.png
+AllowUsbStorage=false
+AllowedWebsites=huronos.org|board.huronos.org|
+Bookmarks={huronOS^http://huronos.org}|
+AvailableSoftware=internet/chromium|programming/sublime|langs/g++|
+
+[Contest-Times]
+2022-05-18T13:00:00	2022-05-18T18:00:00
+2022-05-24T15:38:00	2022-05-24T15:45:00
+2022-05-26T13:00:00	2022-05-26T18:00:00

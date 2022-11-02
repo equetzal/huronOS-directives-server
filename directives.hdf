@@ -1,0 +1,37 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|
+DefaultKeyboardLayout=latam
+EventConfig=true
+ContestConfig=true
+
+[Always]
+Wallpaper=directives.huronos.org/wallpaper1.png
+AllowUsbStorage=true
+AllowedWebsites=all
+Bookmarks={huronOS^http://huronos.org}|{ESCOM_IPN^https://www.escom.ipn.mx}|
+AvailableSoftware=internet/chromium|programming/sublime|programming/kate
+
+[Event]
+Wallpaper=directives.huronos.org/wallpaper2.png
+AllowUsbStorage=true
+AllowedWebsites=all
+Bookmarks={huronOS^http://huronos.org}|{Score^http://score.icpcmexico.org}|
+AvailableSoftware=internet/chromium|programming/sublime|langs/g++|
+
+[Event-Times]
+2022-06-14T12:00:00	2022-06-14T23:00:00	
+
+[Contest]
+Wallpaper=directives.huronos.org/regionmx.png
+AllowUsbStorage=false
+AllowedWebsites=score.icpcmexico.org|vjudge.net|
+Bookmarks={huronOS^http://huronos.org}|{Contest^http://vjudge.net/contest/499722}|
+AvailableSoftware=internet/chromium|internet/crow|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|langs/ruby|tools/byobu|tools/konsole|tools/midnight-commander|programming/atom|programming/clion|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/joe|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode|
+
+[Contest-Times]
+2022-10-05T22:15:00	2022-10-05T22:16:00	
+2022-10-05T22:17:00	2022-10-05T22:18:00	
+2022-10-05T22:19:00	2022-10-05T22:20:00	
+2022-10-05T22:21:00	2022-10-05T22:22:00	
