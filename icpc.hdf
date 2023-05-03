@@ -1,7 +1,7 @@
 [Global]
 TimeZone=America/Mexico_City
 ConfigExpirationTime=never
-AvailableKeyboardLayouts=latam|us|
+AvailableKeyboardLayouts=latam|us|es|
 DefaultKeyboardLayout=latam
 EventConfig=false
 ContestConfig=true
