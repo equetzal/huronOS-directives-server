@@ -1,5 +1,5 @@
 [Global]
-TimeZone=Pacific/Auckland
+TimeZone=America/Mexico_City
 ConfigExpirationTime=never
 AvailableKeyboardLayouts=latam|es|mao|
 DefaultKeyboardLayout=es
